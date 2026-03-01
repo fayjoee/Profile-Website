@@ -1,0 +1,12 @@
+
+C:\Users\ju1da\Pictures\Datafide\Portofolio\fayyadh-portfolio\src\app\page.tsx
+   7:37   warning  'Database' is defined but never used                             @typescript-eslint/no-unused-vars
+   7:47   warning  'Activity' is defined but never used                             @typescript-eslint/no-unused-vars
+  44:15   error    `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`  react/no-unescaped-entities
+  44:122  error    `"` can be escaped with `&quot;`, `&ldquo;`, `&#34;`, `&rdquo;`  react/no-unescaped-entities
+
+C:\Users\ju1da\Pictures\Datafide\Portofolio\fayyadh-portfolio\src\components\ui\TypewriterText.tsx
+  44:9  error  'timeoutId' is never reassigned. Use 'const' instead  prefer-const
+
+Γ£û 5 problems (3 errors, 2 warnings)
+
